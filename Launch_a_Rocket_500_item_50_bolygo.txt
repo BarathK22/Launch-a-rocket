@@ -1,0 +1,683 @@
+﻿LAUNCH A ROCKET - BOLYGÓK ÉS GYŰJTHETŐ ITEMEK
+====================================================
+Bolygók száma: 50
+Itemek száma: 500
+Bolygónként: 10 item
+Ritkasági szintek: Common (1-3), Uncommon (4-6), Rare (7-8), Epic (9), Legendary (10)
+
+A bolygók 1-8. sorszáma a Naprendszer bolygóit tartalmazza, a többi kitalált világ.
+
+====================================================
+1. CSOPORT: 1-10. BOLYGÓ
+====================================================
+
+01. Mercury - Kőzetbolygó
+-------------------------
+   0. Crater Dust [Common]
+   1. Gray Regolith [Common]
+   2. Impact Pebble [Common]
+   3. Scorched Iron [Uncommon]
+   4. Shadow Basalt [Uncommon]
+   5. Solar Glass [Uncommon]
+   6. Magnetic Ore [Rare]
+   7. Dawnside Crystal [Rare]
+   8. Mercury Core Fragment [Epic]
+   9. Messenger's Compass [Legendary]
+
+02. Venus - Mérgező légkörű bolygó
+----------------------------------
+   0. Sulfur Dust [Common]
+   1. Acid Condensate [Common]
+   2. Yellow Ash [Common]
+   3. Pressure Stone [Uncommon]
+   4. Greenhouse Mineral [Uncommon]
+   5. Cloud Resin [Uncommon]
+   6. Sulfur Prism [Rare]
+   7. Volcanic Pearl [Rare]
+   8. Venusian Pressure Core [Epic]
+   9. Aphrodite's Tear [Legendary]
+
+03. Earth - Lakható bolygó
+--------------------------
+   0. River Stone [Common]
+   1. Forest Moss [Common]
+   2. Ocean Shell [Common]
+   3. Natural Quartz [Uncommon]
+   4. Fossil Amber [Uncommon]
+   5. Mountain Opal [Uncommon]
+   6. Ancient Trilobite [Rare]
+   7. Blue Sapphire [Rare]
+   8. Living Seed [Epic]
+   9. Gaia's Heart [Legendary]
+
+04. Mars - Vörös sivatagbolygó
+------------------------------
+   0. Red Regolith [Common]
+   1. Rust Pebble [Common]
+   2. Dune Sand [Common]
+   3. Iron Crystal [Uncommon]
+   4. Polar Ice Chunk [Uncommon]
+   5. Olympus Basalt [Uncommon]
+   6. Ancient Microfossil [Rare]
+   7. Martian Meteorite [Rare]
+   8. Crimson Core [Epic]
+   9. Olympus Relic [Legendary]
+
+05. Jupiter - Gázóriás
+----------------------
+   0. Hydrogen Sample [Common]
+   1. Ammonia Mist [Common]
+   2. Helium Bubble [Common]
+   3. Storm Cloud Capsule [Uncommon]
+   4. Charged Vapor [Uncommon]
+   5. Jovian Ice Dust [Uncommon]
+   6. Lightning Residue [Rare]
+   7. Red Spot Essence [Rare]
+   8. Stormheart Orb [Epic]
+   9. Eye of Jupiter [Legendary]
+
+06. Saturn - Gyűrűs gázóriás
+----------------------------
+   0. Ring Ice Grain [Common]
+   1. Saturnian Ring Dust [Common]
+   2. Pale Cloud Vapor [Common]
+   3. Frozen Ring Pebble [Uncommon]
+   4. Golden Aerosol [Uncommon]
+   5. Cassini Shard [Uncommon]
+   6. Ring Crystal [Rare]
+   7. Hexagon Storm Sample [Rare]
+   8. Celestial Ringstone [Epic]
+   9. Titan's Crown [Legendary]
+
+07. Uranus - Jégóriás
+---------------------
+   0. Methane Frost [Common]
+   1. Cyan Ice Dust [Common]
+   2. Pale Gas Sample [Common]
+   3. Frozen Haze [Uncommon]
+   4. Tilted Ring Shard [Uncommon]
+   5. Aqua Ice Pearl [Uncommon]
+   6. Methane Crystal [Rare]
+   7. Polar Aurora Essence [Rare]
+   8. Azure Pressure Core [Epic]
+   9. Uranus Sky Jewel [Legendary]
+
+08. Neptune - Jégóriás
+----------------------
+   0. Deep Blue Vapor [Common]
+   1. Frozen Methane Flake [Common]
+   2. Storm Water Ice [Common]
+   3. Blue Cloud Crystal [Uncommon]
+   4. Supersonic Wind Sample [Uncommon]
+   5. Triton Frost [Uncommon]
+   6. Neptune Current Pearl [Rare]
+   7. Dark Spot Essence [Rare]
+   8. Oceanic Thunder Core [Epic]
+   9. Trident of Neptune [Legendary]
+
+09. Pyronis - Lávabolygó
+------------------------
+   0. Ember Stone [Common]
+   1. Charcoal Chunk [Common]
+   2. Lava Drop [Common]
+   3. Smoldering Ore [Uncommon]
+   4. Basalt Spike [Uncommon]
+   5. Magma Resin [Uncommon]
+   6. Fire Opal [Rare]
+   7. Burning Core [Rare]
+   8. Inferno Crystal [Epic]
+   9. Heart of Pyronis [Legendary]
+
+10. Glacielle - Jégbolygó
+-------------------------
+   0. Snow Crystal [Common]
+   1. Glacier Stone [Common]
+   2. Frozen Mist [Common]
+   3. Pale Ice Chunk [Uncommon]
+   4. Frost Flower [Uncommon]
+   5. Ice Sapphire [Uncommon]
+   6. Arctic Pearl [Rare]
+   7. Eternal Frost Shard [Rare]
+   8. Crystallized Snowheart [Epic]
+   9. Glacielle Crown [Legendary]
+
+====================================================
+2. CSOPORT: 11-20. BOLYGÓ
+====================================================
+
+11. Pelagia - Óceánbolygó
+-------------------------
+   0. Sea Foam [Common]
+   1. Saltwater Pearl [Common]
+   2. Ocean Kelp [Common]
+   3. Tide Stone [Uncommon]
+   4. Coral Shell [Uncommon]
+   5. Blue Algae Sample [Uncommon]
+   6. Deepwater Crystal [Rare]
+   7. Abyssal Pearl [Rare]
+   8. Ocean Heartstone [Epic]
+   9. Crown of Tides [Legendary]
+
+12. Tempestara - Viharbolygó
+----------------------------
+   0. Storm Dust [Common]
+   1. Gray Cloud Sample [Common]
+   2. Rain Crystal [Common]
+   3. Charged Droplet [Uncommon]
+   4. Cyclone Shard [Uncommon]
+   5. Static Quartz [Uncommon]
+   6. Tempest Feather [Rare]
+   7. Lightning Pearl [Rare]
+   8. Vortex Core [Epic]
+   9. Eye of the Tempest [Legendary]
+
+13. Verdara - Dzsungelbolygó
+----------------------------
+   0. Jungle Vine [Common]
+   1. Mossy Bark [Common]
+   2. Rainforest Seed [Common]
+   3. Emerald Leaf [Uncommon]
+   4. Poison Orchid [Uncommon]
+   5. Canopy Resin [Uncommon]
+   6. Ancient Root Fossil [Rare]
+   7. Jaguar Stone [Rare]
+   8. Verdant Life Core [Epic]
+   9. Guardian's Emerald [Legendary]
+
+14. Aridia - Sivatagbolygó
+--------------------------
+   0. Sun-Baked Sand [Common]
+   1. Dry Clay [Common]
+   2. Dune Pebble [Common]
+   3. Desert Salt [Uncommon]
+   4. Sunstone Ore [Uncommon]
+   5. Mirage Glass [Uncommon]
+   6. Scorpion Fossil [Rare]
+   7. Golden Cactus Bloom [Rare]
+   8. Eternal Sand Core [Epic]
+   9. Crown of Aridia [Legendary]
+
+15. Crystallon - Kristálybolygó
+-------------------------------
+   0. Clear Crystal Chip [Common]
+   1. Violet Shard [Common]
+   2. Blue Crystal Dust [Common]
+   3. Prism Quartz [Uncommon]
+   4. Rose Crystal [Uncommon]
+   5. Refraction Stone [Uncommon]
+   6. Rainbow Cluster [Rare]
+   7. Resonance Diamond [Rare]
+   8. Crystal Matrix Core [Epic]
+   9. Prism Sovereign [Legendary]
+
+16. Umbraxis - Árnyékbolygó
+---------------------------
+   0. Dark Ash [Common]
+   1. Shadow Pebble [Common]
+   2. Void Dust [Common]
+   3. Night Quartz [Uncommon]
+   4. Eclipse Stone [Uncommon]
+   5. Umbral Thread [Uncommon]
+   6. Phantom Crystal [Rare]
+   7. Black Star Fragment [Rare]
+   8. Abyss Core [Epic]
+   9. Heart of the Void [Legendary]
+
+17. Lumora - Fénybolygó
+-----------------------
+   0. Glow Dust [Common]
+   1. Light Pebble [Common]
+   2. Solar Fiber [Common]
+   3. Sunlit Quartz [Uncommon]
+   4. Lumen Pearl [Uncommon]
+   5. Radiant Pollen [Uncommon]
+   6. Golden Aurora Shard [Rare]
+   7. Starlight Gem [Rare]
+   8. Pure Light Core [Epic]
+   9. Lumora's Halo [Legendary]
+
+18. Mirexia - Mocsárbolygó
+--------------------------
+   0. Bog Mud [Common]
+   1. Swamp Reed [Common]
+   2. Moss Clump [Common]
+   3. Marsh Pearl [Uncommon]
+   4. Venom Lily [Uncommon]
+   5. Rotwood Resin [Uncommon]
+   6. Witchlight Fungus [Rare]
+   7. Mire Serpent Scale [Rare]
+   8. Toxic Bloom Core [Epic]
+   9. Queen of the Mire [Legendary]
+
+19. Ferron - Fémbolygó
+----------------------
+   0. Iron Scrap [Common]
+   1. Steel Chip [Common]
+   2. Metal Dust [Common]
+   3. Copper Vein [Uncommon]
+   4. Titanium Nugget [Uncommon]
+   5. Magnetized Gear [Uncommon]
+   6. Alloy Crystal [Rare]
+   7. Ancient Machine Plate [Rare]
+   8. Ferron Reactor Core [Epic]
+   9. Forge King's Hammer [Legendary]
+
+20. Aetheris - Felhőbolygó
+--------------------------
+   0. Cloud Fluff [Common]
+   1. Mist Droplet [Common]
+   2. Air Crystal [Common]
+   3. Floating Feather [Uncommon]
+   4. Condensed Cloud [Uncommon]
+   5. Sky Quartz [Uncommon]
+   6. Breeze Pearl [Rare]
+   7. Nimbus Fragment [Rare]
+   8. Atmosphere Core [Epic]
+   9. Aether Crown [Legendary]
+
+====================================================
+3. CSOPORT: 21-30. BOLYGÓ
+====================================================
+
+21. Thornax - Tüskés kőzetbolygó
+--------------------------------
+   0. Thorn Pebble [Common]
+   1. Spike Bone [Common]
+   2. Sharp Sand [Common]
+   3. Stone Thorn [Uncommon]
+   4. Cactus Iron [Uncommon]
+   5. Razor Crystal [Uncommon]
+   6. Thorn Fossil [Rare]
+   7. Spiked Meteorite [Rare]
+   8. Thornheart Core [Epic]
+   9. Emperor's Spike [Legendary]
+
+22. Cinderon - Hamubolygó
+-------------------------
+   0. Ash Flake [Common]
+   1. Soot Stone [Common]
+   2. Charred Bark [Common]
+   3. Cinder Ore [Uncommon]
+   4. Smoky Quartz [Uncommon]
+   5. Burnt Fossil [Uncommon]
+   6. Emberbone [Rare]
+   7. Phoenix Ash [Rare]
+   8. Cinder Core [Epic]
+   9. Ashen Phoenix Feather [Legendary]
+
+23. Coralys - Korallbolygó
+--------------------------
+   0. Pink Coral [Common]
+   1. Reef Sand [Common]
+   2. Sea Sponge [Common]
+   3. Orange Coral [Uncommon]
+   4. Tropical Shell [Uncommon]
+   5. Glowing Anemone [Uncommon]
+   6. Rainbow Conch [Rare]
+   7. Moon Coral [Rare]
+   8. Living Reef Core [Epic]
+   9. Coral King's Trident [Legendary]
+
+24. Frostveil - Gleccserbolygó
+------------------------------
+   0. Glacier Snow [Common]
+   1. Blue Ice Pebble [Common]
+   2. Frozen Lichen [Common]
+   3. Snow Quartz [Uncommon]
+   4. Frostbound Ore [Uncommon]
+   5. Ancient Ice Bubble [Uncommon]
+   6. Glacier Fossil [Rare]
+   7. Crystal Snowflake [Rare]
+   8. Eternal Glacier Core [Epic]
+   9. Frostveil's Scepter [Legendary]
+
+25. Bloomara - Virágbolygó
+--------------------------
+   0. Pink Petal [Common]
+   1. Daisy Seed [Common]
+   2. Floral Nectar [Common]
+   3. Blossom Stone [Uncommon]
+   4. Orchid Root [Uncommon]
+   5. Sakura Resin [Uncommon]
+   6. Moonflower Bloom [Rare]
+   7. Rainbow Pollen [Rare]
+   8. Blossom Heart Crystal [Epic]
+   9. Eternal Bloom [Legendary]
+
+26. Volteron - Elektromos bolygó
+--------------------------------
+   0. Static Dust [Common]
+   1. Charged Pebble [Common]
+   2. Spark Crystal [Common]
+   3. Plasma Wire [Uncommon]
+   4. Thunder Quartz [Uncommon]
+   5. Magnetized Spark [Uncommon]
+   6. Conductive Sapphire [Rare]
+   7. Ionized Gem [Rare]
+   8. Lightning Reactor Core [Epic]
+   9. Volteron Thunderstone [Legendary]
+
+27. Hollowdeep - Barlangbolygó
+------------------------------
+   0. Cave Dirt [Common]
+   1. Dripstone [Common]
+   2. Cave Mushroom [Common]
+   3. Batwing Fossil [Uncommon]
+   4. Echo Crystal [Uncommon]
+   5. Stalactite Shard [Uncommon]
+   6. Luminous Ore [Rare]
+   7. Ancient Cave Tablet [Rare]
+   8. Hollow Core [Epic]
+   9. Echoes of the Deep [Legendary]
+
+28. Rifta - Dimenzióhasadék-bolygó
+----------------------------------
+   0. Fractured Gravel [Common]
+   1. Space Rift Dust [Common]
+   2. Broken Crystal [Common]
+   3. Gravity Shard [Uncommon]
+   4. Rift Quartz [Uncommon]
+   5. Phase Matter [Uncommon]
+   6. Distorted Gem [Rare]
+   7. Temporal Fragment [Rare]
+   8. Dimensional Core [Epic]
+   9. Riftwalker Relic [Legendary]
+
+29. Nebulon - Gáztörpe
+----------------------
+   0. Violet Gas [Common]
+   1. Pink Cloud Sample [Common]
+   2. Nebula Dust [Common]
+   3. Soft Plasma [Uncommon]
+   4. Gas Pearl [Uncommon]
+   5. Ultraviolet Haze [Uncommon]
+   6. Swirl Crystal [Rare]
+   7. Cosmic Vapor Essence [Rare]
+   8. Nebula Heart Core [Epic]
+   9. Dreamstorm Orb [Legendary]
+
+30. Obsidia - Obszidiánbolygó
+-----------------------------
+   0. Black Volcanic Sand [Common]
+   1. Sharp Obsidian [Common]
+   2. Cooled Lava Rock [Common]
+   3. Obsidian Glass [Uncommon]
+   4. Magma Needle [Uncommon]
+   5. Blackfire Ore [Uncommon]
+   6. Shadowglass Crystal [Rare]
+   7. Obsidian Fang [Rare]
+   8. Dark Furnace Core [Epic]
+   9. Obsidian Emperor's Crown [Legendary]
+
+====================================================
+4. CSOPORT: 31-40. BOLYGÓ
+====================================================
+
+31. Sylvara - Erdőbolygó
+------------------------
+   0. Acorn [Common]
+   1. Green Moss [Common]
+   2. Pinecone [Common]
+   3. Oak Bark [Uncommon]
+   4. Cedar Resin [Uncommon]
+   5. Giant Fern Leaf [Uncommon]
+   6. Moonlit Sap [Rare]
+   7. Dryad Seed [Rare]
+   8. Worldtree Heartwood [Epic]
+   9. Forest Spirit Crown [Legendary]
+
+32. Sandora - Homokdűne-bolygó
+------------------------------
+   0. Golden Sand [Common]
+   1. Windworn Pebble [Common]
+   2. Sandstone Chunk [Common]
+   3. Dune Salt [Uncommon]
+   4. Amber Glass [Uncommon]
+   5. Buried Scarab [Uncommon]
+   6. Sun-Polished Gem [Rare]
+   7. Mirage Pearl [Rare]
+   8. Endless Dune Core [Epic]
+   9. Sands of Eternity [Legendary]
+
+33. Crysalis - Fagyott kristálybolygó
+-------------------------------------
+   0. Frozen Crystal Dust [Common]
+   1. Ice Crystal Chip [Common]
+   2. Snowglass [Common]
+   3. Cryo Quartz [Uncommon]
+   4. Frost Prism [Uncommon]
+   5. Blue Diamond Fragment [Uncommon]
+   6. Frozen Geode [Rare]
+   7. Aurora Crystal [Rare]
+   8. Cryo Core [Epic]
+   9. Heart of Crysalis [Legendary]
+
+34. Marshoon - Lápos bolygó
+---------------------------
+   0. Marsh Grass [Common]
+   1. Mud Pebble [Common]
+   2. Pondweed [Common]
+   3. Wetland Clay [Uncommon]
+   4. Reed Crystal [Uncommon]
+   5. Fog Lotus [Uncommon]
+   6. Mudstone Fossil [Rare]
+   7. Marshfire Pearl [Rare]
+   8. Primordial Bog Core [Epic]
+   9. Marsh Warden Totem [Legendary]
+
+35. Aurorix - Sarki fényes jégóriás
+-----------------------------------
+   0. Aurora Mist [Common]
+   1. Cyan Gas Wisp [Common]
+   2. Polar Gas Dust [Common]
+   3. Magnetic Ribbon [Uncommon]
+   4. Lightwave Crystal [Uncommon]
+   5. Rainbow Ice Vapor [Uncommon]
+   6. Aurora Pearl [Rare]
+   7. Boreal Plasma [Rare]
+   8. Aurora Nexus Core [Epic]
+   9. Northern Lights Crown [Legendary]
+
+36. Magmara - Magmabolygó
+-------------------------
+   0. Hot Pebble [Common]
+   1. Molten Slag [Common]
+   2. Volcanic Clay [Common]
+   3. Magma Crystal [Uncommon]
+   4. Basalt Plate [Uncommon]
+   5. Firestone Ore [Uncommon]
+   6. Lava Ruby [Rare]
+   7. Infernal Geode [Rare]
+   8. Magma Heart Core [Epic]
+   9. Magmara's Furnace [Legendary]
+
+37. Tidalis - Árapálybolygó
+---------------------------
+   0. Wet Sand [Common]
+   1. Sea Current Sample [Common]
+   2. Tide Moss [Common]
+   3. Salt Crystal [Uncommon]
+   4. Deepwater Shell [Uncommon]
+   5. Whirlpool Pearl [Uncommon]
+   6. Tidal Moonstone [Rare]
+   7. Abyss Current Gem [Rare]
+   8. Ocean Vortex Core [Epic]
+   9. Scepter of the Deep Tide [Legendary]
+
+38. Borealis - Sarkvidéki bolygó
+--------------------------------
+   0. Snowy Rock [Common]
+   1. Polar Ice Dust [Common]
+   2. Permafrost Soil [Common]
+   3. Glacier Moss [Uncommon]
+   4. Arctic Quartz [Uncommon]
+   5. Frosted Amber [Uncommon]
+   6. Polar Diamond [Rare]
+   7. Aurora Snow Pearl [Rare]
+   8. Polar Heartstone [Epic]
+   9. Crown of Winter Dawn [Legendary]
+
+39. Zenithar - Égboltóriás
+--------------------------
+   0. High-Altitude Mist [Common]
+   1. Cirrus Sample [Common]
+   2. Soft Windstone [Common]
+   3. Sky Gas Shard [Uncommon]
+   4. Lavender Cloud Pearl [Uncommon]
+   5. Sunrise Crystal [Uncommon]
+   6. Cyclone Opal [Rare]
+   7. Zenith Plasma [Rare]
+   8. Skyheart Core [Epic]
+   9. Zenithar's Eye [Legendary]
+
+40. Rustara - Rozsdás sivatagbolygó
+-----------------------------------
+   0. Red Dust Clump [Common]
+   1. Oxide Stone [Common]
+   2. Corroded Iron [Common]
+   3. Rust Crystal [Uncommon]
+   4. Iron Sandstone [Uncommon]
+   5. Oxide Geode [Uncommon]
+   6. Ancient Rust Plate [Rare]
+   7. Crimson Magnetite [Rare]
+   8. Rustheart Core [Epic]
+   9. Last Iron Crown [Legendary]
+
+====================================================
+5. CSOPORT: 41-50. BOLYGÓ
+====================================================
+
+41. Thundera - Villámvihar-bolygó
+---------------------------------
+   0. Thunder Cloud Sample [Common]
+   1. Ozone Droplet [Common]
+   2. Storm Gravel [Common]
+   3. Crackling Ore [Uncommon]
+   4. Spark Stone [Uncommon]
+   5. Electrostatic Glass [Uncommon]
+   6. Stormscale [Rare]
+   7. Lightning Prism [Rare]
+   8. Thunderheart Core [Epic]
+   9. Stormlord Hammer [Legendary]
+
+42. Fungora - Gombabolygó
+-------------------------
+   0. Mushroom Spore [Common]
+   1. Fungal Cap [Common]
+   2. Mycelium Strand [Common]
+   3. Glowshroom [Uncommon]
+   4. Amber Mushroom Resin [Uncommon]
+   5. Spore Crystal [Uncommon]
+   6. Giant Mushroom Gill [Rare]
+   7. Bioluminescent Truffle [Rare]
+   8. Mycelial Heart [Epic]
+   9. Spore King's Crown [Legendary]
+
+43. Geodara - Geódbolygó
+------------------------
+   0. Geode Pebble [Common]
+   1. Agate Slice [Common]
+   2. Calcite Chip [Common]
+   3. Amethyst Cluster [Uncommon]
+   4. Banded Jasper [Uncommon]
+   5. Celestial Geode [Uncommon]
+   6. Violet Crystal Bloom [Rare]
+   7. Harmonic Crystal [Rare]
+   8. Geode Energy Core [Epic]
+   9. Amethyst Queen's Heart [Legendary]
+
+44. Driftor - Aszteroidabolygó
+------------------------------
+   0. Space Gravel [Common]
+   1. Meteor Iron [Common]
+   2. Asteroid Dust [Common]
+   3. Nickel Chunk [Uncommon]
+   4. Carbonaceous Stone [Uncommon]
+   5. Pallasite Shard [Uncommon]
+   6. Star Metal [Rare]
+   7. Ancient Comet Fossil [Rare]
+   8. Asteroid Heart Core [Epic]
+   9. Drifter's Compass [Legendary]
+
+45. Vaporia - Gőzbolygó
+-----------------------
+   0. Vapor Condensate [Common]
+   1. Steam Pearl [Common]
+   2. Hot Mineral Salt [Common]
+   3. Silica Deposit [Uncommon]
+   4. Thermal Quartz [Uncommon]
+   5. Boiling Ore [Uncommon]
+   6. Pressure Opal [Rare]
+   7. Geyser Crystal [Rare]
+   8. Vapor Engine Core [Epic]
+   9. Breath of the Furnace [Legendary]
+
+46. Gravion - Nagy sűrűségű bolygó
+----------------------------------
+   0. Dense Rock [Common]
+   1. Heavy Iron Fragment [Common]
+   2. Compressed Ore [Common]
+   3. Corestone [Uncommon]
+   4. Graviton Crystal [Uncommon]
+   5. Superdense Alloy [Uncommon]
+   6. Pressure Diamond [Rare]
+   7. Gravity Pearl [Rare]
+   8. Gravitational Core [Epic]
+   9. Heart of Gravion [Legendary]
+
+47. Celestine - Szent fénybolygó
+--------------------------------
+   0. Holy Dust [Common]
+   1. Golden Spark [Common]
+   2. Radiant Stone [Common]
+   3. Blessed Quartz [Uncommon]
+   4. Celestial Feather [Uncommon]
+   5. Halo Fragment [Uncommon]
+   6. Seraphic Pearl [Rare]
+   7. Starborn Relic [Rare]
+   8. Divine Radiance Core [Epic]
+   9. Celestine's Halo [Legendary]
+
+48. Shivera - Örökfagy-bolygó
+-----------------------------
+   0. Frost Gravel [Common]
+   1. Frozen Soil [Common]
+   2. Permafrost Pebble [Common]
+   3. Blue Ice Ore [Uncommon]
+   4. Ancient Snow Fossil [Uncommon]
+   5. Subzero Crystal [Uncommon]
+   6. Frost Diamond [Rare]
+   7. Icebound Relic [Rare]
+   8. Absolute Zero Core [Epic]
+   9. Shivera's Frozen Heart [Legendary]
+
+49. Emberfall - Parázsbolygó
+----------------------------
+   0. Ember Dust [Common]
+   1. Burning Ash [Common]
+   2. Charcoal Ore [Common]
+   3. Scorched Crystal [Uncommon]
+   4. Smoldering Seed [Uncommon]
+   5. Ember Ruby [Uncommon]
+   6. Firebird Fossil [Rare]
+   7. Falling Star Coal [Rare]
+   8. Emberfall Core [Epic]
+   9. Phoenix Ember Crown [Legendary]
+
+50. Edenor - Paradicsombolygó
+-----------------------------
+   0. Paradise Sand [Common]
+   1. Tropical Fruit Seed [Common]
+   2. Green Shell [Common]
+   3. Lush Pearl [Uncommon]
+   4. Golden Orchid [Uncommon]
+   5. Paradise Amber [Uncommon]
+   6. Rainbow Tree Sap [Rare]
+   7. Eden Crystal [Rare]
+   8. Origin Seed [Epic]
+   9. Edenor's Eternal Heart [Legendary]
+
+====================================================
+ÖSSZESÍTÉS
+50 bolygó, 500 item
+Common: 150 | Uncommon: 150 | Rare: 100 | Epic: 50 | Legendary: 50
